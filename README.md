@@ -65,7 +65,7 @@ dataset/
 1. Clone the repository:
 ```bash
 git clone https://github.com/praneethvraj/Pneumonia-Detection-Using-CNN.git
-cd pneumonia-detection-using-cnn
+cd Pneumonia-Detection-Using-CNN
 ```
 
 2. Install dependencies:
@@ -148,4 +148,4 @@ MIT License. See `LICENSE` for details.
 
 ## 💡 Contact
 
-Feel free to reach out via 📧 Email: [praneethvraj@gmail.com](mailto:praneethvraj@gmail.com) or open an issue in this repo.
+Feel free to reach out via 📧 Email: praneethvraj@gmail.com or open an issue in this repo.
