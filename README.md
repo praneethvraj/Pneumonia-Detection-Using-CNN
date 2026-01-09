@@ -64,7 +64,7 @@ dataset/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/praneethvraj/pneumonia-detection-using-cnn.git
+git clone https://github.com/praneethvraj/Pneumonia-Detection-Using-CNN.git
 cd pneumonia-detection-using-cnn
 ```
 
@@ -148,4 +148,4 @@ MIT License. See `LICENSE` for details.
 
 ## 💡 Contact
 
-Feel free to reach out via [Email](praneethvraj@gmail.com) or open an issue in this repo.
+Feel free to reach out via 📧 Email: [praneethvraj@gmail.com](mailto:praneethvraj@gmail.com) or open an issue in this repo.
